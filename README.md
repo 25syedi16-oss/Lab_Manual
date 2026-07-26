@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/25syedi16-oss/Lab_Manual/tree/master/0705-design-hashset) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/Lab_Manual/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Linked List
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/25syedi16-oss/Lab_Manual/tree/master/0705-design-hashset) |
+## Math
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/Lab_Manual/tree/master/1232-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/Lab_Manual/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
