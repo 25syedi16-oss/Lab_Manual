@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/Lab_Manual/tree/master/1232-check-if-it-is-a-straight-line) |
+## Concurrency
+|  |
+| ------- |
+| [1114-print-in-order](https://github.com/25syedi16-oss/Lab_Manual/tree/master/1114-print-in-order) |
 <!---LeetCode Topics End-->
